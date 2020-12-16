@@ -1,10 +1,6 @@
 # Hi there! 👋
 
 <p align="left">
- <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=craziiace&show_icons=true&hide_border=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</p><br><br><br><br><br><br><br><br>
-
-<p align="left">
 Hi! My name is Teddy, and as you can see, I code stuff.<br>
 You can reach me on <a href="https://discord.gg/zwyFZ7h">Discord,</a> at CraziiAce#0001, or join <a href="https://discord.gg/zwyFZ7h">my server</a>.<br>
 My main project is <a href="https://elevatebot.xyz">Elevate</a>, a bot for Discord with loads of commands including logging, moderation, and reaction roles.
@@ -17,3 +13,9 @@ My main project is <a href="https://elevatebot.xyz">Elevate</a>, a bot for Disco
 - I taught myself python
 
 - My code is formatted pretty bad
+
+### Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CraziiAce&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraziiAce&layout=compact&theme=algolia&hide_border=true)
