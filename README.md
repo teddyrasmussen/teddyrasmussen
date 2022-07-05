@@ -2,7 +2,6 @@
 
 <p align="left">
 Hi! My name is Teddy, and as you can see, I code stuff.<br>
-You can reach me on <a href="https://discord.gg/zwyFZ7h">Discord,</a> at CraziiAce#0001, or join <a href="https://discord.gg/zwyFZ7h">my server</a>.<br>
 </p>
 
 ## Some facts about me:
