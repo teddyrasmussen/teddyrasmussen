@@ -10,8 +10,6 @@ Hi! My name is Teddy, and as you can see, I code stuff.<br>
 
 - I taught myself python
 
-- My code is formatted pretty bad
-
 ### Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=teddyrasmussen&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&count_private=true)
