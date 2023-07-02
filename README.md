@@ -1,14 +1,4 @@
-# Hi there! 👋
-
-<p align="left">
-Hi! My name is Teddy, and as you can see, I code stuff.<br>
-</p>
-
-## Some facts about me:
-
-- I live in Colorado
-
-- I taught myself python
+im not good at this
 
 ### Stats
 
